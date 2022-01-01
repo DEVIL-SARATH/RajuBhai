@@ -1,5 +1,5 @@
 /* Copyright (C) 2021 phaticusthiccy
-re-edited by KINGS AS
+re-edited by DEVIL-SARATH
 */
 
 const { Sequelize } = require('sequelize');
@@ -15,12 +15,12 @@ DATABASE_URL = process.env.DATABASE_URL === undefined ? './whatsasena.db' : proc
 DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG);
 
 module.exports = {
-    VERSION: 'v1.0.0 Global Stable',
+    VERSION: 'v1.0.2 Global Stable',
     CHANNEL: 'https://t.me/remasterplugin',
     SESSION: process.env.CONNECTION_CODE === undefined ? '' : process.env.CONNECTION_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
-    AFN: process.env.ALL_CAPTION === undefined ? 'Made By RDX' : process.env.ALL_CAPTION,
+    AFN: process.env.ALL_CAPTION === undefined ? 'Made By RajuBhai' : process.env.ALL_CAPTION,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
@@ -46,7 +46,7 @@ module.exports = {
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
-    BOTSK: process.env.BOT_NAME === undefined ? 'RDX' : process.env.BOT_NAME,
+    BOTSK: process.env.BOT_NAME === undefined ? 'RajuBhai' : process.env.BOT_NAME,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.imgur.com/631kyvI.jpeg' : process.env.ALL_IMG,
     SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/Sachu_abhiram_aj/' : process.env.SOCIAL_MEDIA,
     TAGPLK: process.env.TAG_HEADER === undefined ? '*Attention please 📢*' : process.env.TAG_HEADER,
