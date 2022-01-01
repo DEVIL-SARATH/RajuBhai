@@ -7,22 +7,16 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://telegra.ph/file/5b1a13030d82fce99f12f.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://telegra.ph/file/5c4082bd35a3866b47978.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `RDX Bot Created By Abhiram Sachu
-Creator number 👉: wa.me/917736771516
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*RAJU-BHAI Bot Created By ABHIRAM SACHU AND SARATH ACHU*
 
-Creator number 👇: https://wa.me/qr/62FORLJKJZ4WP1
+*Creator number : wa.me/919496306657?text=Hi%20im_coming_your%20RAJU-BHAI_git_massage.%20*
 
-Githublink (Setup)  👇:    https://github.com/KINGS-AS/RDX
+*Creator number 2 : wa.me/919605101516?text=Hi%20im_coming_your%20RAJU-BHAI_git_massage.%20*
 
-QR       👇:  https://replit.com/@phaticusthiccy/WhatsAsena-QR
+*Githublink (Setup)  :    https://github.com/DEVIL-SARATH/RAJU-BHAI*
 
-DEPLOYE  👇:  https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX.git
-
-AS BOT GROUP 👇: https://chat.whatsapp.com/CaFM7tvnK3TLs8UX0oQWT7
-
-My friend git link 👇: https://github.com/DEVIL-SARATH/RAJU-BHAI
 
 `}) 
 
