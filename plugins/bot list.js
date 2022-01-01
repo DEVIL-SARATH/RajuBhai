@@ -14,7 +14,7 @@ Asena.addCommand({pattern: 'bots', fromMe: td, desc: "GIVE THE LIST OF WHATSAPP 
     
     
    
-  r_text[0] = "https://i.imgur.com/qs6CScf.png";
+  r_text[0] = "https://telegra.ph/file/73d296f397fe2627d3dab.jpg";
     
     
     var i = Math.floor(1*Math.random())
