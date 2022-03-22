@@ -57,9 +57,9 @@ By establishing the RajuBhai, you are deemed to have accepted these responsibili
 ## Developers
   <div align="center">
     
-  [![DEVIL-SARATH](https://github.com/DEVIL-SARATH.png?size=100)](https://github.com/KINGS-AS) | [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/KINGS-AS) | [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/KINGS-AS) 
+  [![DEVIL-SARATH](https://github.com/DEVIL-SARATH.png?size=100)](https://github.com/DEVIL-SARATH) | [![KINGS-AS](https://github.com/Abhiram-Aj.png?size=100)](https://github.com/Abhiram-Aj) | [![KINGS-AS](https://github.com/Abhiram-Aj.png?size=100)](https://github.com/Abhiram-Aj) 
 ----|----|----
-[Shrath](https://github.com/DEVIL-SARATH) | [Abhiram Sachu](https://github.com/KINGS-AS) | [Abhiram Sachu](https://github.com/KINGS-AS)
+[Shrath](https://github.com/DEVIL-SARATH) | [Abhiram Sachu](https://github.com/Abhiram-Aj) | [Abhiram Sachu](https://github.com/Abhiram-Aj)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
